@@ -130,13 +130,37 @@ Format as markdown grouped by week:
 
 ## Performance Review Prep
 
-When the user is preparing for a review, organize entries by impact theme (not chronologically):
-- Reliability / operational excellence
-- Feature delivery / velocity
-- Collaboration / mentoring
-- Technical leadership
+When the user is preparing for a performance review (Connect, annual review, etc.):
 
-For narrative sections, use STAR format: **S**ituation → **T**ask → **A**ction → **R**esult.
+### Structure
+
+1. **Gather** — collect entries from the work log (or backfill using the workflow above)
+2. **Select** — pick the top 3–5 highest-impact items
+3. **Rewrite** each item with three parts:
+   - **What I did** — the specific action
+   - **Why it mattered** — who benefited, what changed
+   - **Proof** — PR number, metric delta, dashboard link, customer outcome
+4. **Organize** by impact theme (not chronologically):
+   - Delivering results / operational excellence
+   - Customer / team impact
+   - Collaboration / mentoring / leadership
+   - Growth / learning
+5. **Ask for gaps** — if evidence is missing, prompt the user: "What metric changed?", "Who was unblocked?", "What's the PR or incident ID?"
+
+### Strong vs weak entries
+
+| ✅ Strong | ❌ Weak |
+|----------|--------|
+| Outcome-first, quantified | Activity list ("worked on X") |
+| Tied to customer/team impact | No beneficiary mentioned |
+| Includes evidence (PR, metric) | No measurable result |
+| Shows ownership or leadership | Pure task completion |
+
+### Narrative format
+
+For longer narrative sections, use STAR: **S**ituation → **T**ask → **A**ction → **R**esult.
+
+For Microsoft employees using the Connect preset, frame entries around Core Priorities: delivering results, customer obsession, teamwork, and growth mindset.
 
 ## Automatic Session Tracking (Optional)
 
